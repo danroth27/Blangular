@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlAngular", "BlAngular\BlAngular.csproj", "{2A34F114-1B4A-47CC-BA9B-1C900B7909BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{0C3B646D-E3AC-43ED-B72E-543CA17B1F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A34F114-1B4A-47CC-BA9B-1C900B7909BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A34F114-1B4A-47CC-BA9B-1C900B7909BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A34F114-1B4A-47CC-BA9B-1C900B7909BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A34F114-1B4A-47CC-BA9B-1C900B7909BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3B646D-E3AC-43ED-B72E-543CA17B1F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3B646D-E3AC-43ED-B72E-543CA17B1F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3B646D-E3AC-43ED-B72E-543CA17B1F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3B646D-E3AC-43ED-B72E-543CA17B1F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4165ABD4-7508-4609-BA83-BDB657B4494C}
+	EndGlobalSection
+EndGlobal
